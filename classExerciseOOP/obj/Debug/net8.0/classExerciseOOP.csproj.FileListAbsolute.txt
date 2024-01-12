@@ -1,0 +1,14 @@
+C:\Users\zirko\Desktop\Webbutveckling\c# 2\classExerciseOOP\bin\Debug\net8.0\classExerciseOOP.exe
+C:\Users\zirko\Desktop\Webbutveckling\c# 2\classExerciseOOP\bin\Debug\net8.0\classExerciseOOP.deps.json
+C:\Users\zirko\Desktop\Webbutveckling\c# 2\classExerciseOOP\bin\Debug\net8.0\classExerciseOOP.runtimeconfig.json
+C:\Users\zirko\Desktop\Webbutveckling\c# 2\classExerciseOOP\bin\Debug\net8.0\classExerciseOOP.dll
+C:\Users\zirko\Desktop\Webbutveckling\c# 2\classExerciseOOP\bin\Debug\net8.0\classExerciseOOP.pdb
+C:\Users\zirko\Desktop\Webbutveckling\c# 2\classExerciseOOP\obj\Debug\net8.0\classExerciseOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zirko\Desktop\Webbutveckling\c# 2\classExerciseOOP\obj\Debug\net8.0\classExerciseOOP.AssemblyInfoInputs.cache
+C:\Users\zirko\Desktop\Webbutveckling\c# 2\classExerciseOOP\obj\Debug\net8.0\classExerciseOOP.AssemblyInfo.cs
+C:\Users\zirko\Desktop\Webbutveckling\c# 2\classExerciseOOP\obj\Debug\net8.0\classExerciseOOP.csproj.CoreCompileInputs.cache
+C:\Users\zirko\Desktop\Webbutveckling\c# 2\classExerciseOOP\obj\Debug\net8.0\classExerciseOOP.dll
+C:\Users\zirko\Desktop\Webbutveckling\c# 2\classExerciseOOP\obj\Debug\net8.0\refint\classExerciseOOP.dll
+C:\Users\zirko\Desktop\Webbutveckling\c# 2\classExerciseOOP\obj\Debug\net8.0\classExerciseOOP.pdb
+C:\Users\zirko\Desktop\Webbutveckling\c# 2\classExerciseOOP\obj\Debug\net8.0\classExerciseOOP.genruntimeconfig.cache
+C:\Users\zirko\Desktop\Webbutveckling\c# 2\classExerciseOOP\obj\Debug\net8.0\ref\classExerciseOOP.dll
